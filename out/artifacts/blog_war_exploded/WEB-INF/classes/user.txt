@@ -1,0 +1,4 @@
+/admin_add.html
+/admin_home.html
+/MessageServlet?methodName=receviceMessage
+/jsp/controller.jsp
